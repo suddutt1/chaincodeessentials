@@ -2,4 +2,4 @@
 Hyperledger Fabric Chain code essentials.
 
 
-InvokerIdentity.go : Refer to the readTransaction method for reading the creator ( invoker) signature details
+InvokersIdentity.go : Refer to the readTransaction method for reading the creator ( invoker) signature details. This may be utilize the invoker and take appropriate actions in the chain code. 
